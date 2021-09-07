@@ -3,5 +3,12 @@
   "compilerOptions": {
     "rootDir": "./src"
   },
-  "references": [{ "path": "../constant/tsconfig.json" }, { "path": "../types/tsconfig.json" }]
+  "references": [
+    {
+      "path": "../constant"
+    },
+    {
+      "path": "../types"
+    }
+  ]
 }
