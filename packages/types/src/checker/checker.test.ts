@@ -46,7 +46,7 @@ describe("isEmpty", () => {
       isEmpty({
         get a() {
           return 1;
-        },
+        }
       })
     ).toBeFalsy();
   });

@@ -1,4 +1,4 @@
-import { DynamicString, Recordable } from "./namespaces/shared";
+import { DynamicString, Recordable } from "../namespaces/shared";
 
 const types = [
   "boolean",
@@ -11,7 +11,7 @@ const types = [
   "object",
   "error",
   "symbol",
-  "ArrayBuffer",
+  "ArrayBuffer"
 ] as const;
 
 /**
