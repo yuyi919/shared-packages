@@ -4,21 +4,6 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "log_codes": [
-        "UidNotFound"
-      ],
-      "type": "Toc",
-      "source_relative_path": "api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/toc.html",
-          "hash": "izJ7/EWHTi3+fUlzHPrQUA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
@@ -37,6 +22,21 @@
         ".html": {
           "relative_path": "overview/sharepoint.html",
           "hash": "PQ/SZyH3Dy1rRKmOfSx4Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Toc",
+      "source_relative_path": "src/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "izJ7/EWHTi3+fUlzHPrQUA=="
         }
       },
       "is_incremental": false,
