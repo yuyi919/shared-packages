@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "1bCYmB+HKmbR16pzPWg8Rg=="
+          "hash": "xtfyfxU/P9Op+4zFcC+kaw=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "overview/sharepoint.html",
-          "hash": "PQ/SZyH3Dy1rRKmOfSx4Gg=="
+          "hash": "PkfCvbsSRZNyDXG/S4W7qg=="
         }
       },
       "is_incremental": false,
@@ -37,18 +37,6 @@
         ".html": {
           "relative_path": "api/toc.html",
           "hash": "izJ7/EWHTi3+fUlzHPrQUA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "toc.html",
-          "hash": "6rVkVt104D4JT2hJqwS5sA=="
         }
       },
       "is_incremental": false,
